@@ -1,0 +1,13 @@
+html, body {
+    margin: 0;
+    padding: 0;
+    background-image: url("INFIERNO.png");
+    background-repeat: no-repeat;
+    background-size: cover;
+  }
+  canvas {
+    margin-top: 5%;
+    margin-left: 30%;
+    display: block;
+  }
+  
